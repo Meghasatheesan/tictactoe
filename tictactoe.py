@@ -1,5 +1,5 @@
 import numpy as np
-print("this is a xo game between you and computer")
+print("this is a xo game between 2 players")
 val=[]
 for i in range(3):
     for j in range (3):
